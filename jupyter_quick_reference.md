@@ -46,7 +46,7 @@ Once you have forwarded the port, you can copy the URL from your remote server's
 At this step you should be able to see the Notebook Dashboard.
 
 ## Getting started
-To create a new notebook, click __New__ at the top right of the Dashboard as in the screenshot:
+To create a new notebook, click __New__->__Python 3__ at the top right of the Dashboard as in the screenshot:
 ![New notebook](https://github.com/text-machine-lab/uml_nlp_class_2019/blob/master/screenshots/new_notebook.png "New notebook")
 
 ## Interface
