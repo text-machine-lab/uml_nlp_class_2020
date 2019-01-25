@@ -2,7 +2,7 @@
 
 Jupyter notebook provides a web-based application for developing, documenting and executing code.
 
-The main features:
+The main features of Jupyter notebooks are:
 - In-browser code editing
 - Displaying of the results of computations in-line
 - In-browser editing for rich text using the Markdown markup language
@@ -11,7 +11,7 @@ The main features:
 ## Installation
 To install jupyter in your virtual environment, activate it and type:
 ```sh
-pip3 install jupyter
+pip install jupyter
 ```
 
 ## Running Jupyter
