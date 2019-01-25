@@ -52,10 +52,34 @@ To create a new notebook, click __New__ at the top right of the Dashboard as in 
 ## Interface
 The interface of the jupyter notebook is pretty self-explanatory; however, we will cover the main functionality here.
 The notebook consists of compuational units called cells, every single cell has either a `Code` or a `Markdown` type. You can switch between the two types by going to `Cell Type` under the `Cell` menu:
+![Cell types](https://github.com/text-machine-lab/uml_nlp_class_2019/blob/master/screenshots/cell_types.png "Cell types")
+You can select, copy, insert, delete, move, execute and edit cells using the toolbar at the top or using shortcuts (see below).
 
-You can copy, insert, delete, move and edit cells using the toolbar at the top or using shortcuts.
+To execute a single cell, press `Ctrl+Enter`. 
+If you are editing a markdown cell, you should see how the markdown content is rendered after the execution (lists, formulas, headers, etc.):
+![Markdown cell](https://github.com/text-machine-lab/uml_nlp_class_2019/blob/master/screenshots/markdown_cell.png "Markdown cell execution")
 
-To execute a single cell, press `Ctrl+Enter`.
+If you are editing a code cell, you can see the output that your code produces right after you execute the cell:
+![Code cell](https://github.com/text-machine-lab/uml_nlp_class_2019/blob/master/screenshots/code_cell.png "Code cell execution")
 
+## Shortcuts
+Perhaps the easiest and fastest way to edit jupyter notebooks is to use various shortcuts. 
+We will list the most commonly used ones. If you want to quickly look a shortcut up, press `H` when in Command Mode to see a full table of shortcuts.
+
+Command Mode shortcuts:
+- Enter the Edit Mode: `Enter`
+- Change the cell mode to markdown: `M`
+- Change the cell mode to code: `Y`
+- Add a cell below/above: `B`/`A`
+- Delete a cell: press `D` two times
+
+Edit Mode shortcuts:
+- Enable the Command Mode: `Esc`
+- Run a cell: `Ctrl+Enter`
+- Run a cell and insert another one below: `Shift+Enter`
+- Fetch a docstring of a python function: `Shift+Tab`
+- Comment: `Ctrl+/`
+- Indent/dedent: `Ctrl+]`/ `Ctrl+[`
+- Delete the whole line: `Ctrl+D`
 
 For the full documentation please refer to [https://jupyter-notebook.readthedocs.io/en/stable/](https://jupyter-notebook.readthedocs.io/en/stable/)
