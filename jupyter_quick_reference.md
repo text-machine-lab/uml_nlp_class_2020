@@ -21,8 +21,9 @@ To run Jupyter on your local machine, go to a folder you want to create your not
 ```sh
 jupyter notebook
 ```
-This will open a new tab in your browser and display the so-called Notebook Dashboard, where you can manage existing notebooks.
-The dashboard will only let you see and edit files located only within your startup directory, so make sure to start Jupyter in the correct folder.
+This will open a new tab in your browser and display the so-called Notebook Dashboard, where you can manage existing notebooks:
+![Notebook Dashboard](https://github.com/text-machine-lab/uml_nlp_class_2019/blob/master/screenshots/dashboard.png "Notebook Dashboard")
+The Dashboard will only let you see and edit files located only within your startup directory, so make sure to start Jupyter in the correct folder.
 
 ### Remotely
 Because Jupyter is a server-client-based web application, it is possible to launch it on a remote machine. 
@@ -46,8 +47,10 @@ At this step you should be able to see the Notebook Dashboard.
 
 ## Getting started
 To create a new notebook, click __New__ at the top right of the Dashboard as in the screenshot:
+![New notebook](https://github.com/text-machine-lab/uml_nlp_class_2019/blob/master/screenshots/new_notebook.png "New notebook")
 
 ## Interface
+The interface of the jupyter notebook is pretty self-explanatory; however, we will cover the main functionality here.
 
 
 For the full documentation please refer to [https://jupyter-notebook.readthedocs.io/en/stable/](https://jupyter-notebook.readthedocs.io/en/stable/)
