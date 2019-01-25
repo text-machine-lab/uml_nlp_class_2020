@@ -51,6 +51,7 @@ To create a new notebook, click __New__->__Python 3__ at the top right of the Da
 
 ## Interface
 The interface of the jupyter notebook is pretty self-explanatory; however, we will cover the main functionality here.
+In general, there are two modes of the notebook operation, __Command Mode__ and __Edit Mode__. The former is used for navigation between cells, changing their order or type, and running the notebook while the latter is used for modification of a given cell's content.
 The notebook consists of compuational units called cells, every single cell has either a `Code` or a `Markdown` type. You can switch between the two types by going to `Cell Type` under the `Cell` menu:
 ![Cell types](https://github.com/text-machine-lab/uml_nlp_class_2019/blob/master/screenshots/cell_types.png "Cell types")
 You can select, copy, insert, delete, move, execute and edit cells using the toolbar at the top or using shortcuts (see below).
