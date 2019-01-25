@@ -6,6 +6,7 @@ Google Group: https://groups.google.com/forum/#!forum/nlp-spring-2019-class-at-u
 
 # Guides
  - Development environment setup: [env_setup.md](env_setup.md)
+ - Quick Jupyter notebook reference: [jupyter_quick_reference.md](jupyter_quick_reference.md)
  
 # Tutorials
  - Tutorial 1: basic text processing with scikit-learn, nltk, and spacy: [tutorial1_sklearn_nltk_spacy.ipynb](tutorial1_sklearn_nltk_spacy.ipynb)
