@@ -51,6 +51,11 @@ To create a new notebook, click __New__ at the top right of the Dashboard as in 
 
 ## Interface
 The interface of the jupyter notebook is pretty self-explanatory; however, we will cover the main functionality here.
+The notebook consists of compuational units called cells, every single cell has either a `Code` or a `Markdown` type. You can switch between the two types by going to `Cell Type` under the `Cell` menu:
+
+You can copy, insert, delete, move and edit cells using the toolbar at the top or using shortcuts.
+
+To execute a single cell, press `Ctrl+Enter`.
 
 
 For the full documentation please refer to [https://jupyter-notebook.readthedocs.io/en/stable/](https://jupyter-notebook.readthedocs.io/en/stable/)
