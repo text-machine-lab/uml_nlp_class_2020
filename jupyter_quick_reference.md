@@ -55,7 +55,7 @@ The notebook consists of compuational units called cells, every single cell has 
 ![Cell types](https://github.com/text-machine-lab/uml_nlp_class_2019/blob/master/screenshots/cell_types.png "Cell types")
 You can select, copy, insert, delete, move, execute and edit cells using the toolbar at the top or using shortcuts (see below).
 
-To execute a single cell, press `Ctrl+Enter`. 
+To execute a single cell, press `Ctrl+Enter`. To edit a cell, press `Enter`.
 If you are editing a markdown cell, you should see how the markdown content is rendered after the execution (lists, formulas, headers, etc.):
 ![Markdown cell](https://github.com/text-machine-lab/uml_nlp_class_2019/blob/master/screenshots/markdown_cell.png "Markdown cell execution")
 
@@ -81,5 +81,6 @@ Edit Mode shortcuts:
 - Comment: `Ctrl+/`
 - Indent/dedent: `Ctrl+]`/ `Ctrl+[`
 - Delete the whole line: `Ctrl+D`
+- To hide the output of the cell, double-click on it
 
 For the full documentation please refer to [https://jupyter-notebook.readthedocs.io/en/stable/](https://jupyter-notebook.readthedocs.io/en/stable/)
