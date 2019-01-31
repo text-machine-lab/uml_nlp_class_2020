@@ -1,4 +1,4 @@
-To submit the homework, download __Homework1.ipynb__ and __corpus.txt__ to the same directory and follow the instructions in __Homework.ipynb__.
+To submit the homework, download __Homework1.ipynb__ and __corpus.txt__ to the same directory and follow the instructions in __Homework1.ipynb__.
 
 Submit the homework as using the `submit` utility as:
 
