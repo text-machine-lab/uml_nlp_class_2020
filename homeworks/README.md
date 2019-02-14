@@ -2,3 +2,4 @@
 
  - Homework 1: [homework1/](homework1/)
  - Homework 2: [homework2/](homework2/)
+ - Homework 3: [homework3/](homework3/)
