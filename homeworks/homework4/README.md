@@ -4,8 +4,8 @@ the instructions in __homework4.ipynb__ file.
 
 Submit the homework as using the `submit` utility as:
 
-`submit arum hw4 <your_notebook_filename>`
+`submit arum hw4 <your_notebook_filename> <additional_files>`
 
-The four homework is due __03.21.2019 11:59 PM__.
+The fourth homework is due __03.21.2019 11:59 PM__.
 
 To check the late submission policy, go to https://sites.google.com/site/umlnlpspr2019/assignments.
