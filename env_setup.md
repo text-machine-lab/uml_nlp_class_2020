@@ -81,7 +81,7 @@ Windows users can do the same using [putty](https://putty.org/).
 Essentially, we need edit the ssh client config file, 
 located in your home dir: `~/.ssh/config`. 
 This file contains configurations options that are going to be used 
-while connecting to a specific server. 
+while connecting to a specific server. Note that this is a file on your local machine (your laptop).
 
 Open this file in your favourite editor (or create it if it does not exists) and type the following:
 ```
@@ -98,7 +98,7 @@ Next, we will specify the port forwarding option, as well as the proxy connectio
 Open the `~/.ssh/config` file again and insert the code below at the end of the file:
 ```
 Host dan417-01
-    Hostname da417-01.uml.edu
+    Hostname dan417-01.uml.edu
     User your_username
     LocalForward 8888 127.0.0.1:8888
     ProxyJump cs
