@@ -1,4 +1,4 @@
-To submit the homework, download __homework5.ipynb__ and the dataset and follow the instructions in __homework5.ipynb__ file.
+To submit the homework, download __homework5.ipynb__ and the [dataset](eng-fra.txt) to the same directory and follow the instructions in __homework5.ipynb__ file.
 
 Submit the homework as using the `submit` utility as:
 
