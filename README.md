@@ -9,6 +9,7 @@ Google Group: https://groups.google.com/forum/#!forum/nlp-spring-2019-class-at-u
  - Homework 2: [homeworks/homework2/](homeworks/homework2/)
  - Homework 3: [homeworks/homework3/](homeworks/homework3/)
  - Homework 4: [homeworks/homework4/](homeworks/homework4/)
+ - Homework 5: [homeworks/homework5/](homeworks/homework5/)
 
 # Guides
  - Development environment setup: [env_setup.md](env_setup.md)
