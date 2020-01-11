@@ -1,8 +1,8 @@
 # UMass Lowell Natural Language Processing Class
-## COMP 4420 COMP 5420, Spring 2019
-Class website: https://sites.google.com/site/umlnlpspr2019/
+## COMP 4420 COMP 5420, Spring 2020
+Class website: https://sites.google.com/site/umlnlpspr2020/
 
-Google Group: https://groups.google.com/forum/#!forum/nlp-spring-2019-class-at-umass-lowell 
+Google Group: https://groups.google.com/forum/#!forum/nlp-spring-2020-class-at-umass-lowell 
 
 # Homeworks:
  - Homework 1: [homeworks/homework1/](homeworks/homework1/)
