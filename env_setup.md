@@ -104,7 +104,7 @@ Host dan417-01
     ProxyJump cs
 ```
 
-The `LowelForward` option specifies that the connections to the port `8888` on your local machine should be
+The `LocalForward` option specifies that the connections to the port `8888` on your local machine should be
 forwarded to the address `127.0.0.1:8888` on the remote machine. Since the Jupyter listens on this address by default, 
 if you open the browser on your local machine and go to http://127.0.0.1:8888, you will connect to the Jupyter 
 running on the remote server. 
