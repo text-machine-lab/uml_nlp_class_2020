@@ -4,8 +4,8 @@ Submit the homework as using the `submit` utility as:
 
 `submit arum hw1 <your_notebook_filename>`
 
-The first homework is due __02.07.2019 11:59 PM__.
+The first homework is due __02.10.2020 11:59 PM__.
 
-To check the late submission policy, go to https://sites.google.com/site/umlnlpspr2019/assignments.
+To check the late submission policy, go to https://sites.google.com/site/umlnlpspr2020/assignments.
 
 
