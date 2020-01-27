@@ -7,14 +7,14 @@ the projects, allowing them to have different dependencies.
 
 To create a virtual environment, run the following command:
 ```
-python3 -m venv ~/virt_env/uml_nlp_class_2019
+python3 -m venv ~/virt_env/uml_nlp_class_2020
 ```
-`~/virt_env/uml_nlp_class_2019` in the command above is just a path a directory that would be created 
+`~/virt_env/uml_nlp_class_2020` in the command above is just a path a directory that would be created 
 to store your new virtual environment. It can be any path you like.
 
 After we've created the venv, we need to *activate* it. To do it, run 
 ```
-source ~/virt_env/uml_nlp_class_2019/bin/activate
+source ~/virt_env/uml_nlp_class_2020/bin/activate
 ```
 Note that the part of the path before `/bin/activate` is the same. In fact, `activate` is 
 just a simple bash script that sets some system environment variables (like `PATH`) in order to use 
