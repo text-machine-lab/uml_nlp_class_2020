@@ -4,6 +4,6 @@ Submit the homework as using the `submit` utility as:
 
 `submit arum hw2 <your_notebook_filename> <additional_files>`
 
-The second homework is due __02.14.2019 11:59 PM__.
+The second homework is due __02.18.2020 11:59 PM__.
 
-To check the late submission policy, go to https://sites.google.com/site/umlnlpspr2019/assignments.
+To check the late submission policy, go to https://sites.google.com/site/umlnlpspr2020/assignments.
