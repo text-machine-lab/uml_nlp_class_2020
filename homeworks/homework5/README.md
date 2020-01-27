@@ -4,6 +4,6 @@ Submit the homework as using the `submit` utility as:
 
 `submit arum hw5 <your_notebook_filename>`
 
-The fourth homework is due __03.28.2019 11:59 PM__.
+The fourth homework is due __03.23.2020 11:59 PM__.
 
-To check the late submission policy, go to https://sites.google.com/site/umlnlpspr2019/assignments.
+To check the late submission policy, go to https://sites.google.com/site/umlnlpspr2020/assignments.
