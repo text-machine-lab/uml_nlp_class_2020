@@ -2,7 +2,7 @@ Read the handout.pdf for full homework instructions.
 Download the starter code [here](http://web.stanford.edu/class/cs224n/assignments/a4.zip).
 
 **Deadlines:**
-1. March 30 2020 (to set up a remote repository)
+1. March 30 2020 (set up a remote repository)
 1. April 6 2020 (code)
 1. April 8 2020 (written)
 
