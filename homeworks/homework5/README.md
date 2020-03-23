@@ -15,7 +15,7 @@ If you are not familiar with Git, we recommend [Codecademy Git tutorial](https:/
 
 1. Create a **private** repository on GitHub ([guide](https://help.github.com/en/enterprise/2.16/user/github/getting-started-with-github/create-a-repo)).
 1. In the command line (on your local computer) execute `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY` to download the repository from git.
-1. Download the [starter code](http://web.stanford.edu/class/cs224n/assignments/a4.zip) and unzip it to the repository
+1. Download the [starter code](http://web.stanford.edu/class/cs224n/assignments/a4.zip) and unzip it to the repository folder
 1. Commit project files and execute `git push` to upload them to GitHub
 
 This will allow you to sync your local code and remote machine code. Every time you want to upload a new version, commit it locally, push it and pull it on a remote machine.
