@@ -83,7 +83,7 @@ Alternatively, you can setup `~/.ssh/config` using [this guide](https://github.c
 # How to upload your code
 
 Initial setup:
-1. Create a git repository as it was described in _Before you start_ section
+1. Create a git repository as it is described in _Before you start_ section
 1. Connect to cs GPU machine
 1. Clone your git repository (just as you did _Before you start_ section on your local computer)
 
