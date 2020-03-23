@@ -1,4 +1,4 @@
-Read the handout.pdf for full homework instructions.
+Read the [handout.pdf](https://github.com/text-machine-lab/uml_nlp_class_2020/blob/master/homeworks/homework5/handout.pdf) for full homework instructions.
 Download the starter code [here](http://web.stanford.edu/class/cs224n/assignments/a4.zip).
 
 **Deadlines:**
