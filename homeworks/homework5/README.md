@@ -20,6 +20,12 @@ If you are not familiar with Git, we recommend [Codecademy Git tutorial](https:/
 
 This will allow you to sync your local code and remote machine code. Every time you want to upload a new version, commit it locally, push it and pull it on a remote machine.
 
+You need to use a code editor or an IDE.
+We recommend 
+[VS Code with python plugin](https://code.visualstudio.com/docs/python/python-tutorial)
+or
+[PyCharm](https://www.jetbrains.com/pycharm/)
+.
 
 # How to connect to remote GPU servers
 
