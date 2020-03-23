@@ -90,6 +90,6 @@ Initial setup:
 Now you have your repository on a cs server and can sync it with GitHub using a single command
 1. `git pull`
 
-We do not recommend editing your code on a remote machine if you are not familiar with git and git merge. If you need to make any code changes, make them on your machine, commit and push them to GitHub.
+We do not recommend editing your code on a remote machine if you are not familiar with git and `git merge`. If you need to make any code changes, make them on your machine, commit and push them to GitHub.
 
 Note that you don't need to upload your code to every server you use. CS machines use [distributed file system](https://en.wikipedia.org/wiki/Clustered_file_system#Distributed_file_systems) so your home folder is synced between them.
