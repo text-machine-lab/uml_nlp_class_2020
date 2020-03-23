@@ -2,7 +2,7 @@ Read the [handout.pdf](https://github.com/text-machine-lab/uml_nlp_class_2020/bl
 Download the starter code [here](http://web.stanford.edu/class/cs224n/assignments/a4.zip).
 
 **Deadlines:**
-1. March 30 2020 (set up a remote repository)
+1. March 30 2020 (set up a repository and try a commit-push-pull pipeline)
 1. April 6 2020 (code)
 1. April 8 2020 (written)
 
